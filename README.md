@@ -17,4 +17,11 @@ DESCRIPTION ABOUT TASK :A Node.js-based chat platform using Express and Socket.I
 OUTPUT : 
 
 
+![Image](https://github.com/user-attachments/assets/c36595ce-bb00-4155-aa0f-8df36a4729e6)
+
+![Image](https://github.com/user-attachments/assets/e82f47a4-8ba8-431d-808b-2188ce6f3408)
+
+![Image](https://github.com/user-attachments/assets/ff9160fb-2671-40c5-a993-882cbc56ecf9)
+
+
 
